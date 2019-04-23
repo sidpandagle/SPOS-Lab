@@ -1,0 +1,9 @@
+import java.io.*;
+class main
+{
+
+int a=2,b=4,c;
+c=a+b;
+System.out.println("hello" +c);
+}
+
